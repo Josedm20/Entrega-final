@@ -1,0 +1,11 @@
+Model Information:
+* title:	LowPoly Ninja Brabo
+* source:	https://sketchfab.com/3d-models/lowpoly-ninja-brabo-db0c0ca321344060a2c8ffd7a8e270e4
+* author:	rkmorello (https://sketchfab.com/rkmorello)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LowPoly Ninja Brabo" (https://sketchfab.com/3d-models/lowpoly-ninja-brabo-db0c0ca321344060a2c8ffd7a8e270e4) by rkmorello (https://sketchfab.com/rkmorello) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
